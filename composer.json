@@ -1,0 +1,12 @@
+{
+    "name": "chillhop/notionphp",
+    "type": "project",
+    "description": "API to connect to Notion",
+    "require": {
+        "php": ">=8.0",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "config": {
+        "platform-check": false
+    }
+}
